@@ -2,7 +2,7 @@
 using System.Collections;
 
 public class MapContorller : MonoBehaviour {
-	
+	// 地图控制器
 	public GameObject mapCell;
     public GameObject playerPrefab;
     public GameObject goldPrefab;
