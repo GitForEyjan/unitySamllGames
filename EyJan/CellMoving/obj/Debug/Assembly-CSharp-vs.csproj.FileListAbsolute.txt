@@ -1,0 +1,12 @@
+G:\myprivate\CellMoving\Temp\bin\Debug\Assembly-CSharp.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\Assembly-CSharp.pdb
+G:\myprivate\CellMoving\Temp\bin\Debug\UnityEditor.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\UnityEngine.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\UnityEngine.UI.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\Mono.Cecil.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\nunit.framework.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\Unity.DataContract.dll
+G:\myprivate\CellMoving\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+G:\myprivate\CellMoving\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+G:\myprivate\CellMoving\obj\Debug\Assembly-CSharp.dll
+G:\myprivate\CellMoving\obj\Debug\Assembly-CSharp.pdb
